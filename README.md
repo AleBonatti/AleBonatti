@@ -1,4 +1,4 @@
-# Hi, I'm Alessandro Bonatti 👋
+# Hi, I'm Alessandro 👋
 
 Full-Stack Web Developer based in Malmö, Sweden 🇸🇪
 
