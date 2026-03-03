@@ -2,7 +2,7 @@
 
 Full-Stack Web Developer based in Malmö, Sweden 🇸🇪
 
-I specialize in building modern, scalable web applications using TypeScript, React, Node.js, and Laravel.
+I specialize in building modern, scalable web applications using TypeScript, VueJs, React, Node.js, and Laravel.
 
 ---
 
