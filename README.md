@@ -20,14 +20,15 @@ I specialize in building modern, scalable web applications using TypeScript, Vue
 - Fastify / Express
 
 **Database**
-- PostgreSQL
 - MySQL
 - MariaDb
+- PostgreSQL
 
 **DevOps**
 - GitHub Actions
 - CI/CD pipelines
 - Linux
+- Laravel Forge
 
 **Other**
 - OpenAI API integration
