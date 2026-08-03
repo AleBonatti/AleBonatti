@@ -2,45 +2,52 @@
 
 Full-Stack Web Developer based in Malmö, Sweden 🇸🇪
 
-I specialize in building modern, scalable web applications using TypeScript, VueJs, React, Node.js, and Laravel.
+I specialize in building modern, scalable web applications using TypeScript, React, VueJs, Node.js, and Php/Laravel.
 
 ---
 
 ## Tech Stack
 
 **Frontend**
-- VueJs
-- React
+
+- VueJs & React
 - TypeScript
-- Tailwind
+- Tailwind Css
 
 **Backend**
-- PHP / Laravel
+
 - Node.js
 - Fastify / Express
+- PHP / Laravel
 
 **Database**
+
+- PostgreSQL
 - MySQL
 - MariaDb
-- PostgreSQL
 
 **DevOps**
+
 - GitHub Actions
 - CI/CD pipelines
 - Linux
 - Laravel Forge
 
 **Other**
+
 - OpenAI API integration
 - REST APIs
 - Microservices architecture
 
 ---
 
-## Featured Projects
+## Featured Personal Projects and stuff
 
+- Everly — A list of things worth doing
+- SeppiaCms — My own, personal custom Cms
 - BingeScore — TV series rating analytics platform
 - Coesya — family organization app
+- Seppia AI Project Kit - A system for generating tailored web projects using AI, replacing the old monolithic CMS fork model
 
 ---
 
