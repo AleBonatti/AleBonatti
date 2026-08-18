@@ -10,34 +10,35 @@ I specialize in building modern, scalable web applications using TypeScript, Rea
 
 **Frontend**
 
-- VueJs & React
+- Vue.js & React
 - TypeScript
 - Tailwind Css
 
 **Backend**
 
 - Node.js
-- Fastify / Express
+- TypeScript
+- Fastify / Drizzle Orm
 - PHP / Laravel
+- Docker
 
 **Database**
 
 - PostgreSQL
-- MySQL
-- MariaDb
+- MySQL / MariaDb
 
 **DevOps**
 
-- GitHub Actions
+- GitHub / GitHub Actions
 - CI/CD pipelines
-- Linux
+- Digital Ocean
 - Laravel Forge
 
-**Other**
+**Misc**
 
 - OpenAI API integration
 - REST APIs
-- Microservices architecture
+- Agentic AI
 
 ---
 
@@ -59,4 +60,4 @@ Malmö, Sweden
 
 ## Website
 
-https://alessandrobonatti.dev
+https://alessandrobonatti.com
