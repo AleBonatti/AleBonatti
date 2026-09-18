@@ -31,8 +31,10 @@ I specialize in building modern, scalable web applications using TypeScript, Rea
 
 - GitHub / GitHub Actions
 - CI/CD pipelines
+- Render / Vercel / Supabase
 - Digital Ocean
 - Laravel Forge
+- ...and some Aws basic knowledge
 
 **Misc**
 
@@ -44,10 +46,11 @@ I specialize in building modern, scalable web applications using TypeScript, Rea
 
 ## Featured Personal Projects and stuff
 
+- Manateca — An MagicTheGathering™ card collection handler with AI-based deck generator
 - Everly — A list of things worth doing
 - SeppiaCms — My own, personal custom Cms
 - BingeScore — TV series rating analytics platform
-- Coesya — family organization app
+- Coesya — A family organization app
 - Seppia AI Project Kit - A system for generating tailored web projects using AI, replacing the old monolithic CMS fork model
 
 ---
@@ -58,6 +61,6 @@ Malmö, Sweden 🇸🇪
 
 ---
 
-## Website &amp; CV
+## My personal website &amp; CV
 
 https://alessandrobonatti.com
