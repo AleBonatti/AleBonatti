@@ -52,12 +52,12 @@ I specialize in building modern, scalable web applications using TypeScript, Rea
 
 ---
 
-## Location
+## Location 🇪🇺
 
-Malmö, Sweden
+Malmö, Sweden 🇸🇪
 
 ---
 
-## Website
+## Website &amp; CV
 
 https://alessandrobonatti.com
