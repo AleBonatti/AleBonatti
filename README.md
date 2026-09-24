@@ -27,7 +27,7 @@ I specialize in building modern, scalable web applications using TypeScript, Rea
 - PostgreSQL
 - MySQL / MariaDb
 
-**DevOps**
+**DevOps && Server**
 
 - GitHub / GitHub Actions
 - CI/CD pipelines
@@ -55,7 +55,7 @@ I specialize in building modern, scalable web applications using TypeScript, Rea
 
 ---
 
-## Location 🇪🇺
+## Location
 
 Malmö, Sweden 🇸🇪
 
