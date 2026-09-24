@@ -38,7 +38,7 @@ I specialize in building modern, scalable web applications using TypeScript, Rea
 
 **Misc**
 
-- OpenAI API integration
+- OpenAI and Claude API integration
 - REST APIs
 - Agentic AI
 
